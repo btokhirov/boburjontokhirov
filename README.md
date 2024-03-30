@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boburjontokhirov
+- 👋 Hi, I’m @btokhirov
 - 👀 I’m interested in data science, artificial intelligence, and software development.
 - 🌱 I’m currently learning machine learning algorithms and techniques to advance my skills in data analysis
 - 💞️ I’m looking to collaborate on projects related to predictive modeling, natural language processing, or computer vision
